@@ -9,7 +9,9 @@ I'm a Computer Engineering student specializing in **Data Science & Artificial I
 - **Data Analysis Professional Certificate** – edX.
 - **Excel for Data Analytics** – Analyst Builder.
 - **Data Visualization with Python (Pandas)** – Kaggle.
-
+### 🏅 Professional Memberships
+- **IEEE Student Member** - *IEEE Computer Society & Women in Engineering (WIE)*
+  - Member ID: [101659222]
 ---
 
 ### 🛠 Skills & Tools
